@@ -16,7 +16,7 @@ setup(name='geograpy3',
       author='Jonathon Morgan',
       author_email='jonathon@ushahidi.com',
       license='MIT',
-      packages=['geograpy'],
+      packages=['geograpy3'],
       install_requires=[
             'numpy',
             'nltk',
