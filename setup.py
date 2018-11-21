@@ -7,7 +7,7 @@ try:
 except (IOError, ImportError):
    long_description = open('README.md').read()
 
-setup(name='geograpy',
+setup(name='geograpy3',
       version='0.3.7',
       description='Extract countries, regions and cities from a URL or text',
       long_description=long_description,
